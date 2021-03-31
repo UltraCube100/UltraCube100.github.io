@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **UltraCube100/UltraCube100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 
-What I am working on:
+<h2> What I am working on: </h2>
 Nothing Currently
 
