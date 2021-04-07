@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 -->
 
 
-<h2> What I am working on: </h2>
-Nothing Currently
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=UltraCube100&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
